@@ -41,7 +41,7 @@ const fizzbuzz = () => {
       console.log(i);
     }
 };
-console.log(fizzbuzz());
+//console.log(fizzbuzz());
 //forgot "else" if
 //forgot to hoist the && to the top
 //forgot to call "fizzbuzzz() at the end"
